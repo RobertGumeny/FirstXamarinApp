@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.deps.json
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.dll
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\ref\XamarinApp.dll
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.pdb
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csprojAssemblyReference.cache
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.AssemblyInfo.cs
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.dll
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\ref\XamarinApp.dll
+C:\Users\rober\source\repos\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.pdb
